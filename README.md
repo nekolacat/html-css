@@ -3,4 +3,4 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositorios
 
-<a href="https://nekolacat.github.io/html-css/desafios/d010/android.html">Desafio Site Mascote do Android</a>
+<a href="https://nekolacat.github.io/projeto-android">Desafio Site Mascote do Android</a>
